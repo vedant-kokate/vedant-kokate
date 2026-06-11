@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Vedant! 👋</h1>
   
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAIw/giphy.gif" width="250" alt="Lazy Cat" />
+  <img src="https://media.tenor.com/NaaUB2i0EjsAAAAM/cat-lazy.gif" width="250" alt="Lazy Cat" />
   
   <br><br>
   
