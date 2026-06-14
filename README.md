@@ -1,12 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Vedant! 👋</h1>
-  
   <img src="https://media.tenor.com/NaaUB2i0EjsAAAAM/cat-lazy.gif" width="250" alt="Lazy Cat" />
-  
-  <br><br>
-  
+  <br>
   <img src="https://komarev.com/ghpvc/?username=vedant-kokate&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/website?url=https://YOUR-WEBSITE.com&up_message=Online&down_message=Offline&style=flat-square" alt="Website Status" />
+  <a href="https://vedantkokate.me" target="_blank">
+  <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=vedantkokate.me&logo=world&logoColor=white&style=flat-square&up_color=2ecc71&up_message=Online&url=https%3A%2F%2Fvedantkokate.me" alt="Website Status" />
+</a>
 </div>
 
 ## 👨‍💻 About Me
