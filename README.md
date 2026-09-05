@@ -35,10 +35,10 @@ I'm a backend engineer who likes building systems that hold up under real load â
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-rose-73.vercel.app/api?username=vedant-kokate&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats-eight-rose-73.vercel.app/api/top-langs/?username=vedant-kokate&theme=dark&layout=compact" alt="Top Languages" />
-  <br><br>
+  <!-- <img src="https://github-readme-stats-eight-rose-73.vercel.app/api?username=vedant-kokate&show_icons=true&theme=dark" alt="GitHub Stats" /> -->
+  <!-- <br><br> -->
+  <!-- <img src="https://github-readme-stats-eight-rose-73.vercel.app/api/top-langs/?username=vedant-kokate&theme=dark&layout=compact" alt="Top Languages" /> -->
+  <!-- <br><br> -->
   <img src="https://streak-stats.demolab.com/?user=vedant-kokate&theme=dark" alt="GitHub Streak" />
 </div>
 
