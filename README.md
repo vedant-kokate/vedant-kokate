@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm Vedant! 👋</h1>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=vedant-kokate&color=blue" alt="Profile Views" />
   <a href="https://vedantkokate.me" target="_blank">
   <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=vedantkokate.me&logo=world&logoColor=white&style=flat-square&up_color=2ecc71&up_message=Online&url=https%3A%2F%2Fvedantkokate.me" alt="Website Status" />
@@ -9,12 +8,14 @@
 
 ## About Me
 I'm a backend engineer who likes building systems that hold up under real load — and I like to travel while I do it.
- 
+
 - 💼 Previously **Software Engineer at BrowserStack** — migrated reporting infra from MySQL to ClickHouse (500M+ row tables, <300ms queries), built fault-tolerant data pipelines at scale
 - 🛰️ Wrote embedded firmware for a university cubesat mission, launched via ISRO
 - 🏆 Top 1% globally in Google Hash Code (AIR 271 / 10,000+ teams) · 99.8th percentile on Project Euler
 - 🌍 Open to remote roles worldwide
+
 <br>
+
 ## Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -29,24 +30,26 @@ I'm a backend engineer who likes building systems that hold up under real load �
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </div>
+
 <br>
 
 ## GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-eight-rose-73.vercel.app/api?username=vedant-kokate&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-rose-73.vercel.app/api?username=vedant-kokate&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats-eight-rose-73.vercel.app/api/top-langs/?username=vedant-kokate&theme=dark&layout=compact" alt="Top Languages" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=vedant-kokate&theme=dark" alt="GitHub Streak" />
 </div>
+
 <details>
   <summary><b>📈 Activity Graph</b></summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats-eight-rose-73.vercel.app/graph?username=vedant-kokate&theme=react-dark" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph-sigma-blush.vercel.app/graph?username=vedant-kokate&theme=react-dark" alt="Activity Graph" />
   </div>
 </details>
+
 <br>
 
 ## Let's Connect
@@ -58,4 +61,3 @@ I'm a backend engineer who likes building systems that hold up under real load �
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
- 
