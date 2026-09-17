@@ -54,7 +54,7 @@ I'm a backend engineer who likes building systems that hold up under real load â
 
 ## Let's Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant-kokate-723030182/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vedant.kokate07@gmail.com">
